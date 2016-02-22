@@ -1,0 +1,5 @@
+I use a multi level queue with one level for every possible priority value in 
+order to achieve O(1). To add processes to the readylist[priority] I used the 
+linear operations enqueue and dequeue
+
+I submitted this 1 day late, I now have 2 remaining late days.
